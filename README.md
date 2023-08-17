@@ -12,7 +12,7 @@ This application allows users to convert long URLs into concise, shareable short
 - Allow users to submit a long URL.
 - Generate a unique and short identifier for the given long URL.
 - Return the generated short URL to the user.
-- error handling for scenarios where the short URL is not found in the database
+- error handling for scenarios where the short URL is not found
 
 ## Technologies used
 
