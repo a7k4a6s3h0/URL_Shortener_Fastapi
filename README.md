@@ -46,7 +46,11 @@ pip install -r requirements.txt
 
 ```bash
 uvicorn main_file:app --reload
-``` 
+```
+The server will start, and you'll see output indicating that the FastAPI app is running and listening for incoming requests.
+
+5) Shutdown the Server:
+To stop the FastAPI server, press Ctrl+C in the terminal where it's running.
     
 ## Documentation
 
